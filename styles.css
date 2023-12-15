@@ -1,0 +1,9 @@
+/* styles.css */
+h1 {font-size: 54px;  margin-bottom: 5px; color: #000099; font-family: 'Roboto' , 'Young Serif', 'Georgia', 'Times New Roman', serif; }
+h2 {font-size: 28px; margin-top: 5px; color: #0000cc; font-family: 'georgia' }
+body { text-align: center; background-color: #e6f7ff; }
+img { border: 2px solid #330099;
+width: 550px;
+    height: 240px;
+    margin: 20px;}
+
